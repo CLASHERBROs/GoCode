@@ -1,0 +1,31 @@
+body{
+  padding-top: 0px;
+  background: black;
+}
+.jumbotron{
+  color:#2c3e50;
+  background: #ecf0f1;
+}
+.navbar-light .navbar-brand{
+  color: white;
+}
+
+.bg-light {
+  background-color:white; 
+}
+#jumbotronImg{
+  width: 10%;
+}
+
+h2{
+  text-align: center;
+  color: white;
+}
+.thumbnail-img{
+  width: 100%;
+  margin-top: 5%;
+  margin-bottom: 3%;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
