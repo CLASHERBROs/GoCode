@@ -1,10 +1,17 @@
 body{
   padding-top: 0px;
   background: black;
+  color: white;
+}
+
+.jumbotron h1{
+  font-size: 5rem;
 }
 .jumbotron{
+  padding: 8% 10% 15% 10%;
   color:#2c3e50;
   background: #ecf0f1;
+  font-size: 3rem;
 }
 .navbar-light .navbar-brand{
   color: white;
@@ -14,9 +21,11 @@ body{
   background-color:white; 
 }
 #jumbotronImg{
-  width: 10%;
+  width: 13%;
 }
-
+.navbar.scrolled{
+  background-color: black;
+  }
 h2{
   text-align: center;
   color: white;
@@ -29,3 +38,10 @@ h2{
 .navbar-dark .navbar-nav .nav-link {
   color: white;
 }
+#fields{
+padding: 3% 0px 0%;
+margin-top: 5%;
+}
+#languages{
+  padding: 5% 0px 0%;
+  }
