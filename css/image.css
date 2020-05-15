@@ -45,3 +45,17 @@ margin-top: 5%;
 #languages{
   padding: 5% 0px 0%;
   }
+  .youtubevideos{
+    display: none;
+  }
+
+  #videos button {
+    display: block;
+    width: 560px;
+ margin-bottom: 3%;
+ background-image: url("../images/C++.png");
+  }
+  #videos{
+    padding-top: 6%;
+  }
+
