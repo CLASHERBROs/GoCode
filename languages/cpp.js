@@ -5,7 +5,6 @@ var btn2 = document.getElementById("cppbtn2");
 var btn3 = document.getElementById("cppbtn3");
 var btn1 = document.getElementById("cppbtn1");
 var videosFlag = ["false","flase","false","false"];
-
 btn1.addEventListener("click",function(){show(vid1);});
 btn2.addEventListener("click",function(){show(vid2);});
 btn3.addEventListener("click",function(){show(vid3);});
