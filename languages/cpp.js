@@ -1,9 +1,9 @@
-var vid1 = document.getElementById("cppvid1");
-var vid2 = document.getElementById("cppvid2");
-var vid3 = document.getElementById("cppvid3");
-var btn2 = document.getElementById("cppbtn2");
-var btn3 = document.getElementById("cppbtn3");
-var btn1 = document.getElementById("cppbtn1");
+var video1 = document.getElementById("vid1");
+var vid2 = document.getElementById("vid2");
+var vid3 = document.getElementById("vid3");
+var btn2 = document.getElementById("btn2");
+var btn3 = document.getElementById("btn3");
+var btn1 = document.getElementById("btn1");
 var videosFlag = ["false","flase","false","false"];
 btn1.addEventListener("click",function(){show(vid1);});
 btn2.addEventListener("click",function(){show(vid2);});
